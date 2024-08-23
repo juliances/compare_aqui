@@ -1,0 +1,28 @@
+dia 25/10
+primeiro dia estudando em casa..
+
+saber mais sobre logica de programação.
+saber mais sobre html.css.angular.visual estudio.marchine learning.react.
+estar atualizado com framework.
+
+como fazer o começo de java estanciar chamar elementos e conectar com html e banco de dados ????
+
+RESPOSTAS;;;
+
+
+como fazer id para links com outros sites  e recursos  
+como fazer id para paginas 
+como fazer classe para titulos e textos.
+como fazer menu .corpo.estrutura do site com recursos atualizado.pegar por exemplo sites de esportes espn.com..
+para usar textos estilizados
+
+como fazer um site de entregadores estilo ifood
+como fazer um site para motoristas  
+{
+primeiro vai ser a confiança com participantes e clientes usar primeiro para facilitar entregas de super mercados
+o cliente faz as compras e nos vamos entregar para voce .seja de moto ou carro 
+primeiro passo usar para mim cadastrar o maximo de clientes que pegar no uber montar um arquivo  para salvar numneros montar uma apresentaçao para levar na frente de mercados com demonstraçao de como funciona o site 
+levar proposta para gerentes de postos de gasolina sobre o site de entregas e de motorista.  
+
+
+}
