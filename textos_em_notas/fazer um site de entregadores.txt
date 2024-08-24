@@ -1,11 +1,11 @@
 dia 25/10
 primeiro dia estudando em casa..
 
-saber mais sobre logica de programação.
+saber mais sobre logica de programaÃ§Ã£o.
 saber mais sobre html.css.angular.visual estudio.marchine learning.react.
 estar atualizado com framework.
 
-como fazer o começo de java estanciar chamar elementos e conectar com html e banco de dados ????
+como fazer o comeÃ§o de java estanciar chamar elementos e conectar com html e banco de dados ????
 
 RESPOSTAS;;;
 
@@ -19,10 +19,57 @@ para usar textos estilizados
 como fazer um site de entregadores estilo ifood
 como fazer um site para motoristas  
 {
-primeiro vai ser a confiança com participantes e clientes usar primeiro para facilitar entregas de super mercados
+primeiro vai ser a confianÃ§a com participantes e clientes usar primeiro para facilitar entregas de super mercados
 o cliente faz as compras e nos vamos entregar para voce .seja de moto ou carro 
-primeiro passo usar para mim cadastrar o maximo de clientes que pegar no uber montar um arquivo  para salvar numneros montar uma apresentaçao para levar na frente de mercados com demonstraçao de como funciona o site 
+primeiro passo usar para mim cadastrar o maximo de clientes que pegar no uber montar um arquivo  para salvar numneros montar uma apresentaÃ§ao para levar na frente de mercados com demonstraÃ§ao de como funciona o site 
 levar proposta para gerentes de postos de gasolina sobre o site de entregas e de motorista.  
 
 
 }
+RENOMEAR AS CLASSES,INDENTIFICAR OBJETOS,ATUALIZAR CSS,BAIXAR IMAGENS,BAIXAR VIDEOS,FAZER PAGE CADASTRO SOMENTE SE FOR ADIQUIRIR SERVIÃ‡O DE ENTREGA  DIRECIONANDO PARA WHATSHAP,VIDEO EXIBINDO SISTEMA , 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+MONTAR ARQUIVOS : MONTAR PACOTES TABELA_COMPARE_AQUI 
+                  MONTAR CLASS CARRINHO_COMPRAS(API_WHATSHP)
+                  MONTAR CLASS COMPARATIVO_DE_PREÃ‡O(API_COMPREIbARATO)
+                  MONTAR CLASS LISTA_DE_VALORES
+                  MONTAR CLASS TABELA_EXECUTORA
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+MONTAR ARQUIVOS: MONTAR PACOTES LOGUIN_SENHA
+                 MONTAR CLASS SENHA
+                 MONTAR CLASS LOGUIN
+                 MONTAR CLASS LOGUIN_EXECUTORA
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+MONTAR ARQUIVO: MONTAR PACOTES VISUAL_D
+                MONTAR CLASS ACESSOS_PERFIL
+                MONTAR CLASS SUPORTE_24_
+                MONTAR CLASS INTERFACE_VISUAL_D (HTML)
+                MONTAR CLASS VISUAL_D_EXECUTORA
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+MONTAR ARQUIVO: MONTAR PACOTES SERVICOS_PREMIUN
+                MONTA  CLASS COMPARATIVOS_PECAS_AUTOMOTIVAS
+                MONTAR CLASS COMPARATIVOS_DE PRODUTOS_E_SERVICOS
+                MONTAR CLASS EXECUTORA 
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+MONTAR ARQUIVO: MONTAR WHATSHAPP
+                MONTAR CHAT BOX(PERGUNTAS_RESPOSTAS)
+                MONTAR DIRECIONAMENTO_DE_WHATSHAPP_COM_SITE
+                MONTAR UMA INTERFACE_VISUAL_D(HTML)
+atualizadodia24/08/2024
+
+
