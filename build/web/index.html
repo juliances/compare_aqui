@@ -6,24 +6,58 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/build/web/index.html 
     <head>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" href="style.css" type="text/css"/>
-
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        
         <title>Compare Aqui </title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        
+<!-- -->        
      <div class="btn-group">
   <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
     cadastro
   </button>
   <ul class="dropdown-menu dropdown-menu-end">
     <li><button class="dropdown-item" type="button">login</button></li>
-    <li><button class="dropdown-item" type="button">alterar senha </button></li>
-    <li><button class="dropdown-item" type="button">agendamento dos nossos serviços</button></li>
+    <li><button class="dropdown-item" type="button">entrega</button></li>
+    <li><button class="dropdown-item" type="button">coleta</button></li>
     <li><button class="dropdown-item" type="button">rastreio de pedidos </button></li>
   </ul>
 </div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">click E facilite </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">inicio <span class="sr-only">(proposito)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Serviços
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">farmacia</a>
+                    <a class="dropdown-item" href="#">mercado</a>
+                    <div class="dropdown-divider">distribuidora</div>
+                    <a class="dropdown-item" href="#">delivery</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Saiba mais</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contato</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<!-- --> 
         <nav aria-label="Page navigation example">
   <ul class="pagination justify-content-center">
     <li class="page-item">
@@ -37,19 +71,21 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/build/web/index.html 
     </li>
   </ul>
 </nav>
+<!-- -->        
         <p class="d-inline-flex gap-1">
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">como funciona </a>
   <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2"> Torne-se um Colaborador</button>
 </p>
+<!-- -->
 <div class="row">
-  <div class="col">
+  <div class="col_1">
     <div class="collapse multi-collapse" id="multiCollapseExample1">
       <div class="card card-body">
         Conheça a versão grátis do Programa Completo para Bares e Restaurantes com Delivery.O sistema consiste em criar um carrinho de compras para cada setor, a fim de otimizar os processos de orçamento e entrega.
       </div>
     </div>
   </div>
-  <div class="col">
+  <div class="col_2">
     <div class="collapse multi-collapse" id="multiCollapseExample2">
       <div class="card card-body">
         Convidamos você a se juntar à nossa equipe de colaboradores.a Compare Aqui é uma startup que atua no seguimento de comparativo de produtos e entrega de mercadorias.
@@ -57,30 +93,39 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/build/web/index.html 
     </div>
   </div>
 </div>
+<!-- -->
 <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand">explore por localização</a>
     <form class="d-flex" role="search">
-      <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <input class="form-control me-2" type="search" placeholder="pequisar" aria-label="Search">
       <button class="btn btn-outline-success" type="submit">Pesquisar</button>
     </form>
   </div>
 </nav>
-<div class ="container"> 
-    <h2 class="display-4 text-muted">Numca Mais Perca Seu Tempo</h2>
-    <hr> 
+<!-- -->
+<div class ="container_1"> 
+    <h2 class="display-4 text-muted_tituloCarrsel">Numca Mais Perca Seu Tempo</h2>
+    <hr>
+    
+    
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
+      
     <div class="carousel-item active">
       <img src="https://cdn.abrahao.com.br/base/606/0d0/202/chefe-cozinha-profissional.jpg" class="d-block w-100" alt="...">
     </div>
+      
     <div class="carousel-item">
       <img src="https://matriculas.estacio.br/blog/wp-content/uploads/2022/02/Chefe-de-cozinha-veja-os-detalhes-dessa-saborosa-profissao.png" class="d-block w-100" alt="...">
     </div>
+      
     <div class="carousel-item">
       <img src="https://blog.famyle.com/wp-content/uploads/2023/02/chef-feminina-cortando-vegetais-na-cozinha-1024x732.jpg" class="d-block w-100" alt="...">
     </div>
+      
   </div>
+        
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -90,18 +135,24 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/build/web/index.html 
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+    
     <div id="carouselExampleInterval" class="carousel slide my-5" data-bs-ride="carousel">
   <div class="carousel-inner">
+      
     <div class="carousel-item active" data-bs-interval="10000">
       <img src="https://techconn.com.br/wp-content/uploads/2021/03/Gestao-do-delivery.jpg" class="d-block w-100" alt="...">
     </div>
+      
     <div class="carousel-item" data-bs-interval="2000">
       <img src="https://www.kcms.com.br/blog/wp-content/uploads/2023/10/Capa-1_Easy-Resize.com_-jpg.webp" class="d-block w-100" alt="...">
     </div>
+      
     <div class="carousel-item">
       <img src="https://static.vecteezy.com/ti/vetor-gratis/p3/35675396-chefe-de-cozinha-comida-servico-logotipo-projeto-palavra-marca-texto-conceito-com-minimo-e-moderno-estilo-vetor.jpg" class="d-block w-100" alt="...">
     </div>
+      
   </div>
+        
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -110,12 +161,79 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/build/web/index.html 
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+    </div>
 </div>
-
-
-
+<!-- -->
+<div class ="container_2">
+   <h2 class="display-4 text-muted_tituloCarrsel">Mercados e Distribuidoras com</h2>
+    <hr> 
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <div class="carousel-inner">
+      
+    <div class="carousel-item active">
+      <img src="https://cdn.abrahao.com.br/base/606/0d0/202/chefe-cozinha-profissional.jpg" class="d-block w-100" alt="...">
+    </div>
+      
+    <div class="carousel-item">
+      <img src="https://matriculas.estacio.br/blog/wp-content/uploads/2022/02/Chefe-de-cozinha-veja-os-detalhes-dessa-saborosa-profissao.png" class="d-block w-100" alt="...">
+    </div>
+      
+    <div class="carousel-item">
+      <img src="https://blog.famyle.com/wp-content/uploads/2023/02/chef-feminina-cortando-vegetais-na-cozinha-1024x732.jpg" class="d-block w-100" alt="...">
+    </div>
+      
+  </div>
+        
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+ 
+        
+        
+        
 </div>
-             
+    <div id="carouselExampleInterval" class="carousel slide my-5" data-bs-ride="carousel">
+  <div class="carousel-inner">
+      
+    <div class="carousel-item active" data-bs-interval="10000">
+      <img src="https://techconn.com.br/wp-content/uploads/2021/03/Gestao-do-delivery.jpg" class="d-block w-100" alt="...">
+    </div>
+      
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="https://www.kcms.com.br/blog/wp-content/uploads/2023/10/Capa-1_Easy-Resize.com_-jpg.webp" class="d-block w-100" alt="...">
+    </div>
+      
+    <div class="carousel-item">
+      <img src="https://static.vecteezy.com/ti/vetor-gratis/p3/35675396-chefe-de-cozinha-comida-servico-logotipo-projeto-palavra-marca-texto-conceito-com-minimo-e-moderno-estilo-vetor.jpg" class="d-block w-100" alt="...">
+    </div>
+      
+  </div>
+        
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>    
+    
+</div> 
+</div>
+<!-- termina carrosel-->
+
+
+
+
+
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </body>
 </html>
+             
+
